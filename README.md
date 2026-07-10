@@ -1,0 +1,1 @@
+PrestaGest-ERP-Sistema-de-gestion-de-prestamos es un sistema tipo ERP para la gesntión de prestamos elaborado en HTML, CSS JavaScrip, su funcionalidad es incialmente generar un simulador de prestamos y coutas, adicional se genera un inicio de sesión para la creación de prestamos y control de visitas programadas acorde a la forma de pago, fue elaborada por Paula Betancourt
